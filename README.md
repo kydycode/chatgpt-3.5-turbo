@@ -1,6 +1,6 @@
 # OpenAI Chatbot
 
-This is a simple chatbot that uses OpenAI's GPT-3 language model to generate responses to user input.
+This is a simple chatbot that uses OpenAI's GPT-3.5-turbo language model to generate responses to user input.
 
 ## Installation
 
