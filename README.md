@@ -1,4 +1,4 @@
-# OpenAI Chatbot
+# OpenAI Chatbot with gpt-3.5-turbo model
 
 This is a simple chatbot that uses OpenAI's GPT-3.5-turbo language model to generate responses to user input.
 
