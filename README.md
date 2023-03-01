@@ -4,7 +4,7 @@ This is a simple chatbot that uses OpenAI's GPT-3 language model to generate res
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/your_repository.git`
+1. Clone the repository: `git clone https://github.com/kydycode/chatgpt-3.5-turbo.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Set up an OpenAI API key by following the instructions [here](https://beta.openai.com/docs/developer-quickstart/your-api-keys)
 4. Add your API key to the `YOUR_API_KEY` field in `main.py`
