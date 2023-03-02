@@ -13,7 +13,7 @@ This is a simple chatbot that uses OpenAI's GPT-3.5-turbo language model to gene
 
 To start the chatbot, run `main.py` using Python 3:
 
-python main.py
+    python main.py
 
 
 The chatbot will prompt you to enter your input, and then it will generate a response using the GPT-3 model. The conversation history is stored in a list of dictionaries called `message_log`.
