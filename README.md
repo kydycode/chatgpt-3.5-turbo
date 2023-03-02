@@ -6,7 +6,7 @@ This is a simple chatbot that uses OpenAI's GPT-3.5-turbo language model to gene
 
 1. Clone the repository: `git clone https://github.com/kydycode/chatgpt-3.5-turbo.git`
 2. Install the required packages: `pip install -r requirements.txt`
-3. Set up an OpenAI API key by following the instructions [here](https://beta.openai.com/docs/developer-quickstart/your-api-keys)
+3. Set up an OpenAI API key by following the instructions [here](https://platform.openai.com/account/api-keys)
 4. Add your API key to the `YOUR_API_KEY` field in `main.py`
 
 ## Usage
