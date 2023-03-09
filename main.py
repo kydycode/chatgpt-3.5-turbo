@@ -41,9 +41,6 @@ def main():
             user_input = input("You: ")
             message_log.append({"role": "user", "content": user_input})
 
-            # Add a message from the chatbot to the conversation history
-            message_log.append({"role": "assistant", "content": "You are a helpful assistant."})
-
             # Send the conversation history to the chatbot and get its response
             response = send_message(message_log)
 
